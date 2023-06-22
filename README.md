@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My Developer Repository</title>
+    <tittle>My Developer Repository</tittle>
   </head>
   <body>
     <h1>Hello, I'm Alex, a passionate programmer.</h1>
