@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🤘🤘, I'm Alex Cernas.</h1>
 <h3 align="center">I'm a passionate student for web development from Mexico. I'm currently in the process of learning more about web development, and I'm excited to see what the future holds.</h3>
-### About me.
+
 - 🌱 I’m currently learning **Python, Linux, Cloud-computing, Git, and GitHub.**
 
 - 💬 Ask me about **Node, Javascript, Express, Back-end, Web Development.**
