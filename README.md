@@ -1,16 +1,19 @@
-### Hi there 👋
-
-<!--
-**AlexCernas2901/AlexCernas2901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Developer Repository</title>
+  </head>
+  <body>
+    <h1>Hello, I'm Alex, a passionate programmer.</h1>
+    <p>My primary development environment is based on HTML, CSS, Bootstrap, JavaScript, Node.js, MySQL, and MongoDB.</p>
+    <ul>
+      <li><a href="https://www.w3schools.com/html/default.asp">HTML</a></li>
+      <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
+      <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+      <li><a href="https://www.w3schools.com/js/default.asp">JavaScript</a></li>
+      <li><a href="https://nodejs.org/">Node.js</a></li>
+      <li><a href="https://www.mysql.com/">MySQL</a></li>
+      <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    </ul>
+  </body>
+</html>
