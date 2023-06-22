@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🤘🤘, I'm Alex Cernas</h1>
 <h3 align="center">I'm a passionate student for web development from Mexico. I'm currently in the process of learning more about web development, and I'm excited to see what the future holds.</h3>
 
-- 🌱 I’m currently learning **Python, Linux, Cloud-computing, Git, and GitHub.**
+- I’m currently learning **Python, Linux, Cloud-computing, Git, and GitHub.**
 
-- 💬 Ask me about **Node, Javascript, Express, Back-end, Web Development.**
+- Ask me about **Node, Javascript, Express, Back-end, Web Development.**
 
-- 📫 How to reach me **acernas1@ucol.mx**
+- How to reach me **acernas1@ucol.mx**
 
 - 📄 Know about my experiences: I have spent the past 6 months preparing to work as a back-end developer in JavaScript with Node and Express. I am confident that I have the skills and experience necessary to be successful in this role. I am eager to apply my knowledge and skills to a real-world project and to contribute to the success of a team.
 
