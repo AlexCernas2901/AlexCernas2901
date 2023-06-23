@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h1>
+### Hi there 🤘🤘, I'm Alex Cernas.
 
 ---
 
