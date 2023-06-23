@@ -1,5 +1,6 @@
-[<iframe src="https://giphy.com/embed/bqbpFWdlVRIUQ73X3H" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pearljam-pearl-jam-eddie-vedder-bqbpFWdlVRIUQ73X3H">via GIPHY</a></p>
-](https://media.giphy.com/media/bqbpFWdlVRIUQ73X3H/giphy.gif)
+<div>
+  <img src="https://media.giphy.com/media/bqbpFWdlVRIUQ73X3H/giphy.gif">
+</div>
 
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
 
