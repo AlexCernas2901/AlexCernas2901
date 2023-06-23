@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" with="200">
+  <img src="https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" with="200">
 </div>
 
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
