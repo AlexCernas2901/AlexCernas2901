@@ -1,7 +1,12 @@
 <h1 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h1>
+
+---
+
 <h3 align="center">I'm a passionate student for web development. I'm currently in the process of learning more about web development, and I'm excited to see what the future holds.</h3>
 
-<h3>About me.</h3>
+---
+
+### About me
 
 - 🌱 I’m currently learning: **Python, Linux and Cloud-computing**
 
