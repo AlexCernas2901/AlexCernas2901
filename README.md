@@ -4,7 +4,7 @@
 
 ---
 
-### About me
+### About me.
 
 - 🌱 I’m currently learning: **Python, Linux and Cloud-computing**
 
@@ -14,7 +14,9 @@
 
 - 📄 My experience: I have spent the past 6 months preparing to work as a back-end developer in JavaScript with Node and Express. I am confident that I have the skills and experience necessary to be successful in this role. I am eager to apply my knowledge and skills to a real-world project and to contribute to the success of a team.
 
-<h3 align="left">Languages and tools:</h3>
+---
+
+### Languages and tools.
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
