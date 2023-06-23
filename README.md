@@ -30,4 +30,4 @@
 
 <h3>My stats.</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexCernas2901)](https://git.io/streak-stats)
+![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCernas2901&show_icons=true&theme=radical)
