@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences: I have spent the past 6 months preparing to work as a back-end developer in JavaScript with Node and Express. I am confident that I have the skills and experience necessary to be successful in this role. I am eager to apply my knowledge and skills to a real-world project and to contribute to the success of a team.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
