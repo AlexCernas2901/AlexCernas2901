@@ -31,3 +31,4 @@
 <h3>My stats.</h3>
 
 ![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCernas2901&show_icons=true&theme=radical)
+![Alex Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCernas2901&hide_progress=true)
