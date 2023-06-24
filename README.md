@@ -4,8 +4,6 @@
 
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
 
-<h3 align="center">I'm a passionate student for web development. I'm currently in the process of learning more about web development, and I'm excited to see what the future holds.</h3>
-
 ---
 
 ### About me.
@@ -40,8 +38,5 @@
 ---
 
 ### 📊 My stats.
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexCernas2901)](https://git.io/streak-stats)
-![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexCernas2901&show_icons=true&theme=radical)
 
 ![Alex Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCernas2901&layout=compact)
