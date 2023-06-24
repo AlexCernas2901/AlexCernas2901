@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/bqbpFWdlVRIUQ73X3H/giphy.gif" width="150">
-</div>
-
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
 
 ---
