@@ -1,5 +1,6 @@
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
 
+I'm a passionate student for back-end web development. I'm currently in the process of learning more about front-end web development, and I'm excited to see what the future holds
 ---
 
 ### About me.
