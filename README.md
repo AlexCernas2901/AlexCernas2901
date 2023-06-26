@@ -4,7 +4,7 @@
 
 ### About me.
 
-- 🌱 I’m currently learning: **Python, Linux and Cloud-computing**
+- 🌱 I’m currently learning: **Python, Linux, Cloud-computing, Angular**
 
 - 💬 Ask me about: **Node, Javascript, Express, Back-end, Web Development.**
 
