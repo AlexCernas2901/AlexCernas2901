@@ -11,10 +11,6 @@ I'm a passionate student for back-end web development. I'm currently in the proc
 
 - 📫 How to reach me: **acernas1@ucol.mx**
 
-- 📄 My experience: I have spent the past 6 months preparing to work as a back-end developer in JavaScript with Node and Express. I am confident that I have the skills and experience necessary to be successful in this role. I am eager to apply my knowledge and skills to a real-world project and to contribute to the success of a team.
-
----
-
 ### Languages and tools I am familiar with.
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -31,6 +27,8 @@ I'm a passionate student for back-end web development. I'm currently in the proc
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+- 📄 My experience: I have spent the past 6 months preparing to work as a back-end developer in JavaScript with Node and Express. I am confident that I have the skills and experience necessary to be successful in this role. I am eager to apply my knowledge and skills to a real-world project and to contribute to the success of a team.
 
 ---
 
