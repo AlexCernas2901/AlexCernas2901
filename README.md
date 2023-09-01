@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
 
-A student apassionate for back-end web development. 
+Back-end web development in progress. 
 ---
 
 ### Worked with.
@@ -24,13 +24,13 @@ A student apassionate for back-end web development.
 
 ### About me.
 
-- 🌱 Currently learning: **Python, Linux, Cloud-computing, Angular**
+- 🌱 Currently learning: **Python, Kotlin, Angular**
 
 - 💬 Ask me about: **Node, Javascript, Express, Back-end, Web Development.**
 
 - 📫 How to reach me: **acernas1@ucol.mx**
 
-- 📄 My experience: **7 months preparing to work as a back-end developer with Node and Express.**
+- 📄 My experience: **8 months preparing to work as a back-end developer with Node and Express.**
 ---
 
 ### 📊 Stats.
