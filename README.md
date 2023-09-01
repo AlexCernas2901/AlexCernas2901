@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
 
-Back-end web development in progress. 
+Back-end web developer in progress. 
 ---
 
 ### Worked with.
