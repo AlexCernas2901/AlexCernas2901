@@ -26,11 +26,9 @@ Backend web developer.
 
 - 🌱 Currently learning: **ReactJs**
 
-- 💬 Ask me about: **Node, Javascript, Express, Back-end, Web Development.**
-
 - 📫 How to reach me: **acernas1@ucol.mx**
 
-- 📄 My experience: **+1 year preparing to work as a back-end developer with Node and Express.**
+- 📄 My experience: **+1 year working on Backend usign Node.Js and Express.**
 ---
 
 ### 📊 Stats.
