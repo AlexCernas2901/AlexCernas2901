@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
 
-Back-end web developer in progress. 
+Backend web developer. 
 ---
 
 ### Worked with.
@@ -24,13 +24,13 @@ Back-end web developer in progress.
 
 ### About me.
 
-- 🌱 Currently learning: **Python, Kotlin, Angular**
+- 🌱 Currently learning: **ReactJs**
 
 - 💬 Ask me about: **Node, Javascript, Express, Back-end, Web Development.**
 
 - 📫 How to reach me: **acernas1@ucol.mx**
 
-- 📄 My experience: **8 months preparing to work as a back-end developer with Node and Express.**
+- 📄 My experience: **+1 year preparing to work as a back-end developer with Node and Express.**
 ---
 
 ### 📊 Stats.
