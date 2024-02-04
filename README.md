@@ -3,11 +3,11 @@
   <h4>full-stack web developer.</h4>
 </div>
 
-```
-const Experience = [
-   'backend': '+1 year | Express'
-   'backend': '+6 months working on backen | React'
-]
+```js
+const Experience = {
+   backend: '+1 year | Express'
+   backend: '+6 months working on backen | React'
+}
 ```
 
 ## Used technologies:
