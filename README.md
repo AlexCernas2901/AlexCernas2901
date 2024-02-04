@@ -2,10 +2,13 @@
    <p>What's Up? I'm Alex Cernas,</p>
   <h4>full-stack web developer.</h4>
 </div>
-   
-## Experience:
-- **+1 year working on backend | Express**
-- **+6 months working on frontend | React**
+
+```
+const Experience = [
+   'backend': '+1 year | Express'
+   'backend': '+6 months working on backen | React'
+]
+```
 
 ## Used technologies:
 [![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,js,html,css,mongodb,vite,postman)](https://skillicons.dev)
