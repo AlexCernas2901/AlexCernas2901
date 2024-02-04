@@ -3,12 +3,11 @@
   <h4>full-stack web developer.</h4>
 </div>
 
-```js
-const Experience = {
-   backend: '+1 year | Express',
-   frontend: '+6 months | React'
-}
-```
+
+## Experience:
+backend: +1 year | Express
+frontend: +6 months | React
+
 
 ## Used technologies:
 [![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,js,html,css,mongodb,vite,postman)](https://skillicons.dev)
