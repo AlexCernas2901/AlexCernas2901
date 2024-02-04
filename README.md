@@ -5,8 +5,8 @@
 
 
 ## Experience:
-- Backend: +1 year | Express
-- Frontend: +6 months | React
+- +1 year working on Express
+- +6 months working on React
 
 
 ## Used technologies:
