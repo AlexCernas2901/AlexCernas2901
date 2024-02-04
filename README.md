@@ -7,9 +7,8 @@
 - **+1 year working on backend | Express**
 - **+6 months working on frontend | React**
 
-## About me.
-
-<p>Student of Internet Technologies</p>
+## About me:
+<p>Internet technology engineering student, passionate about web programming.</p>
 
 ## My programing languages stats:
 
