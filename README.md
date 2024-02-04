@@ -1,5 +1,5 @@
 <div align="center">
-  What's Up? I'm Alex Cernas,
+   <h3>What's Up? I'm Alex Cernas,</h3>
   <p>full-stack web developer.</p>
 </div>
 ---
