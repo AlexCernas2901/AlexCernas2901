@@ -3,14 +3,15 @@
   <h4>full-stack web developer.</h4>
 </div>
 
-### 📄Experience:
+## 📄Experience:
 
 - **+1 year working on backend | Express**
 - **+6 months working on frontend | React**
 
-### About me.
+## About me.
 
 <p>Student of Internet Technologies</p>
-### 📊 My programing languages stats:
+
+## 📊 My programing languages stats:
 
 ![Alex Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCernas2901&layout=compact)
