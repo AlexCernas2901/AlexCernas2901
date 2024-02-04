@@ -1,7 +1,7 @@
-<h3 align="center">
+<div align="center">
   What's Up? I'm Alex Cernas,
   <p>full-stack web developer.</p>
-</h3>
+</div>
 ---
 
 ### 📄 My experience:
