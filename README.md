@@ -7,7 +7,6 @@
 
 - **+1 year working on backend | Express**
 - **+6 months working on frontend | React**
-- 
 
 ### About me.
 
