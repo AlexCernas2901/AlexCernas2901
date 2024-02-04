@@ -8,7 +8,7 @@
 - **+6 months working on frontend | React**
 
 ## Used technologies:
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,html,css,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,html,css,mongodb,postman)](https://skillicons.dev)
 
 ## About me:
 <p>Internet technology engineering student, passionate about web programming.</p>
