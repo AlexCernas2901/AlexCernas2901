@@ -6,7 +6,7 @@
 ```js
 const Experience = {
    backend: '+1 year | Express',
-   backend: '+6 months working on backen | React'
+   frontend: '+6 months | React'
 }
 ```
 
