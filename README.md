@@ -1,6 +1,6 @@
 <div align="center">
-   <h4>What's Up? I'm Alex Cernas,</h4>
-  <p>full-stack web developer.</p>
+   <p>What's Up? I'm Alex Cernas,</p>
+  <h4>full-stack web developer.</h4>
 </div>
 ---
 
