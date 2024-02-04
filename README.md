@@ -1,6 +1,5 @@
-<h3 align="center">What's Up? I'm Alex Cernas.</h3>
-
-### A full-stack web developer. 
+<h3 align="center">What's Up? I'm Alex Cernas,</h3>
+<h2 align="center">a full-stack web developer. </h2>
 ---
 
 ### 📄 My experience:
