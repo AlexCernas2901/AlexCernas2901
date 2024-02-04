@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 🤘🤘, I'm Alex Cernas.</h3>
+<h3 align="center">What's Up? I'm Alex Cernas.</h3>
 
 Backend web developer. 
 ---
@@ -20,17 +20,12 @@ Backend web developer.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-
-### About me.
-
-- 🌱 Currently learning: **React**
-
-- 📫 How to reach me: **acernas1@ucol.mx**
-
-- 📄 My experience: **+1 year working on Backend usign Node.Js and Express.**
 ---
+### 📄 My experience:
 
-### 📊 My programing languages stats.
+- **+1 year working on backend | Express**
+- **+6 months working on frontend | React**
+---
+### 📊 My programing languages stats:
 
 ![Alex Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCernas2901&layout=compact)
