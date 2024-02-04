@@ -24,7 +24,7 @@ Backend web developer.
 
 ### About me.
 
-- 🌱 Currently learning: **ReactJs**
+- 🌱 Currently learning: **React**
 
 - 📫 How to reach me: **acernas1@ucol.mx**
 
