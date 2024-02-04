@@ -3,7 +3,7 @@
   <h4>full-stack web developer.</h4>
 </div>
    
-# Experience:
+### Experience:
 - **+1 year working on backend | Express**
 - **+6 months working on frontend | React**
 
