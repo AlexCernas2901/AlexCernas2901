@@ -9,8 +9,8 @@
 - +6 months working on React
 
 
-## Used technologies:
-[![My Skills](https://skillicons.dev/icons?i=react,express,nodejs,js,html,css,mongodb,postman)](https://skillicons.dev)
+## Use to work with:
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb)](https://skillicons.dev)
 
 ## About me:
 <p>Internet technology engineering student, passionate about web programming.</p>
