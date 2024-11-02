@@ -3,7 +3,7 @@
 </div>
 
 ## Experience:
-- +1 year Express development
+- +2 years Express development
 - +6 months React development
 
 ## Technical skills:
