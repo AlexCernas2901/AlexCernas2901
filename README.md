@@ -3,8 +3,8 @@
 </div>
 
 ## Experience:
-- +1 year working on Express
-- +6 months working on React
+- +1 year Express development
+- +6 months React development
 
 ## Technical skills:
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,js,html,css)](https://skillicons.dev)
