@@ -8,9 +8,9 @@
 - +1 year working on Express
 - +6 months working on React
 
-## Use to work with:
+## Technical skills:
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,js,html,css)](https://skillicons.dev)
 
 
 ## About me:
-<p>Internet technology engineering student, passionate about web programming.</p>
+<p>Internet technology engineering student.</p>
