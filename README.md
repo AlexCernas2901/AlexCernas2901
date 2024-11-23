@@ -11,5 +11,5 @@ Over a year of experience building APIs using Node.js, Express, and MongoDB, as 
 
 
 ## Get in Touch.
-Email: aalexcg29@gmail.com
-LinkedIn: [Alexis Cernas](https://www.linkedin.com/in/%C3%A1ngel-alexis-cernas-hern%C3%A1ndez-479101262/)
+- Email: aalexcg29@gmail.com
+- LinkedIn: [Alexis Cernas](https://www.linkedin.com/in/%C3%A1ngel-alexis-cernas-hern%C3%A1ndez-479101262/)
