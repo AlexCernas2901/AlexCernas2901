@@ -1,5 +1,5 @@
 <div align="center">
-   <h3>What's Up? I'm <b>Alex Cernas<b>.</h3>
+   <h3>What's Up, I'm <b>Alex Cernas<b>.</h3>
 </div>
 
 Internet Technologies Engineering student at the University of Colima with a focus on API development.
