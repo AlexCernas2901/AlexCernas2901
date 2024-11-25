@@ -7,7 +7,7 @@ Internet Technologies Engineering student at the University of Colima.
 Over a year of experience building APIs using Node.js, Express, and MongoDB, as well as developing IoT solutions with Arduino and ESP32, integrating hardware with APIs. Additionally, simple React applications have been developed.
 
 ## Used to work with:
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,arduino)](https://skillicons.dev)
 
 
 ## Get in Touch.
