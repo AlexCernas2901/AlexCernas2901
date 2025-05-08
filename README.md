@@ -7,7 +7,7 @@ Internet Technologies Engineering student at the University of Colima.
 Experience building APIs using Express and NestJs, as well as developing IoT solutions with Arduino and ESP32.
 
 ## Used to work with:
-[![My Skills](https://skillicons.dev/icons?i=typescript,js,nestjs,express,react,arduino,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,nestjs,express,react,arduino,cpp)](https://skillicons.dev)
 
 
 ## Get in Touch.
