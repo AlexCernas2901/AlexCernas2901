@@ -2,11 +2,11 @@
    <h3>What's Up, I'm <b>Alex Cernas<b>.</h3>
 </div>
 
-Internet Technologies Engineering student at the University of Colima.
+I'm server support for The Royal Bank of Canada at TCS.
 
-Experience building Express and NestJs APIs, as well as developing IoT solutions with Arduino and ESP32.
+Have experience building Express and NestJs APIs, as well as developing IoT solutions with Arduino and ESP32.
 
-## Used to work with:
+## Tech stack usually use:
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,nestjs,express,react,arduino,cpp)](https://skillicons.dev)
 
 
