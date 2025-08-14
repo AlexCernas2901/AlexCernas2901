@@ -12,4 +12,4 @@ Have experience building Express and NestJs APIs, as well as developing IoT solu
 
 ## Get in Touch.
 - Email: aalexcg29@gmail.com
-- LinkedIn: [Alex Cernas](www.linkedin.com/in/angel-alexis-cernas-hernandez-479101262)
+- LinkedIn: [Alex Cernas](https://www.linkedin.com/in/angel-alexis-cernas-hernandez-479101262/)
