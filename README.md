@@ -2,8 +2,6 @@
    <h3>What's Up, I'm <b>Alex Cernas<b>.</h3>
 </div>
 
-I'm server support for The Royal Bank of Canada at TCS.
-
 Have experience building Express and NestJs APIs, as well as developing IoT solutions with Arduino and ESP32.
 
 ## Tech stack usually use:
